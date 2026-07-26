@@ -1,5 +1,7 @@
 # Perfect Cut Hair Salon Website Concept
 
+**Live demo:** [Open the website](https://kodar0.github.io/perfect-cut-salon-concept/)
+
 An independent, unofficial portfolio concept created by **Danil Interactive** for a local hair salon in Hamilton, Ontario.
 
 > This project was not commissioned or approved by Perfect Cut Hair Salon. It is published only as a web design and front-end development demonstration. The current editorial images are temporary placeholders and are not photographs of the salon.
