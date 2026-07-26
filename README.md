@@ -5,7 +5,6 @@ An independent, unofficial portfolio concept created by **Danil Interactive** fo
 > This project was not commissioned or approved by Perfect Cut Hair Salon. It is published only as a web design and front-end development demonstration. The current editorial images are temporary placeholders and are not photographs of the salon.
 **Creator:** Danil Interactive · [Instagram @kodaro14882026](https://www.instagram.com/kodaro14882026/)
 
-![Perfect Cut Hair Salon concept carousel](social-assets/final/contact-sheet.png)
 
 ## Project goals
 
@@ -68,7 +67,7 @@ The corresponding TypeScript definitions are in `src/types/business.ts`.
 
 ## Images
 
-Image folders are under `public/images`. Replace the placeholder files and update their paths, dimensions, alt text and `isPlaceholder` flags in `src/data/business.ts`. See `public/images/README.md` for the replacement checklist.
+Image folders are under `public/images`. Optimized placeholder assets are stored as portable Base64 source files in `.assets/site` and restored automatically before `dev` and `build`. Replace the placeholders and update their paths, dimensions, alt text and `isPlaceholder` flags in `src/data/business.ts`. See `public/images/README.md` for the replacement checklist.
 
 ## Demonstration features
 

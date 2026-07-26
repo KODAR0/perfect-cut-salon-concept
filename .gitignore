@@ -42,3 +42,7 @@ next-env.d.ts
 
 # local development server logs
 .dev-server.*.log
+# generated portfolio assets
+/public/images/**/*.png
+/public/images/**/*.webp
+/social-assets/
